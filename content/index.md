@@ -3,3 +3,4 @@
 Burası dijital sözlüğümüzün ana merkezidir.
 Bu hafta öğrendiğim kelimeler:
 * [[mitigate]]
+* [[abandon]]

@@ -1,4 +1,4 @@
-# Abandon
+# abandon
 
 **English Definition:** To leave someone or something behind permanently; to give up or forsake completely.
 
