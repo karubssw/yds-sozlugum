@@ -1,4 +1,4 @@
-# Ability
+# ability
 
 **English Definition:** The natural, developed, or acquired power or skill of doing something; capacity or talent.
 

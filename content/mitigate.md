@@ -1,4 +1,4 @@
-# Mitigate
+# mitigate
 
 **Türkçe Anlamı:** Etkisini azaltmak, hafifletmek.
 
